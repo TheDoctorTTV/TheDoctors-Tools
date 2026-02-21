@@ -2,7 +2,11 @@
   "name": "TheDoctorTTV.VoiceModeMenu.Runtime",
   "rootNamespace": "",
   "references": [
-    "UdonSharp.Runtime"
+    "UdonSharp.Runtime",
+    "VRC.SDKBase",
+    "VRC.SDK3A",
+    "VRC.Udon",
+    "Unity.TextMeshPro"
   ],
   "includePlatforms": [],
   "excludePlatforms": [],
