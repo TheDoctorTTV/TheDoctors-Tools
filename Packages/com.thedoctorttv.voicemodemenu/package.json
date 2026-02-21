@@ -9,5 +9,9 @@
     "email": "thedoctor@thetimevortex.net",
     "url": "https://github.com/thedoctorttv"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "vpmDependencies": {
+    "com.vrchat.worlds": ">=3.10.1",
+    "com.vrchat.udonsharp": ">=1.0.0"
+  }
 }
